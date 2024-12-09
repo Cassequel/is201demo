@@ -1,0 +1,15 @@
+body{
+    font-family: serif;
+}
+.site-heading-lower{
+    font-family: 'comic sans MS';
+}
+.mb-3{
+    font-family: 'comic sans MS';
+}
+a{
+    font-family: 'comic sans MS';
+}
+#mainNav{
+    background-color: rgba(105, 90, 205, 0.753);
+}
